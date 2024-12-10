@@ -5,3 +5,6 @@ The purpose of the code is to show how to build a simple soil estimator using so
    - files used for this POC: `[claytotal_60_cm_p.tif, sandtotal_60_cm_p.tif, gypsum_60_cm_p.tif, silttotal_60_cm_p.tif]`
  - `main2.py`: will estimate percent total sand at any depth up to 200cm using percent total sand at specific depth intervals.
    - files used for this POC: `[sandtotal_0_cm_p.tif, sandtotal_5_cm_p.tif, sandtotal_15_cm_p.tif, sandtotal_30_cm_p.tif, sandtotal_60_cm_p.tif, sandtotal_100_cm_p.tif, sandtotal_150_cm_p.tif]`
+
+#### Source of data
+[SOLUS 100](https://storage.googleapis.com/solus100pub/index.html)
